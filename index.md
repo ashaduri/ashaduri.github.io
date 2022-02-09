@@ -10,7 +10,7 @@ I'm a professional C++ software developer since 2002. While I strongly believe i
 
 ## Free Software Projects
 
-This is an incomplete list of currently active software projects developed by me.
+This is an incomplete list of currently active free software projects developed by me.
 
 ### [GSmartControl](https://gsmartcontrol.shaduri.dev)
 ***Hard disk drive and SSD health inspection tool***
