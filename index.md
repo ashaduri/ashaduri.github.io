@@ -8,7 +8,9 @@
 
 I'm a professional C++ software developer since 2002. While I strongly believe in using the right tool for the job, I'm also an avid fan of safe, reliable and efficient programming, so safe C++ and Rust code is where my interests are focused. Most of my software is cross-platform, but I mainly use Linux as my desktop and development platform.
 
-## Some Free Software Projects
+## Free Software Projects
+
+This is an incomplete list of currently active software projects developed by me.
 
 ### [GSmartControl](https://gsmartcontrol.shaduri.dev)
 ***Hard disk drive and SSD health inspection tool***
