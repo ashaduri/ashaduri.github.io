@@ -12,15 +12,14 @@ I'm a professional C++ software developer since 2002. While I strongly believe i
 
 
 ### [GSmartControl](https://gsmartcontrol.shaduri.dev)
-
 ***Hard disk drive and SSD health inspection tool***
 
 
-### [Csv::Parser (csv-parser)](https://github.com/ashaduri/csv-parser) - ***Compile-time and runtime CSV parser written in C++17***
+### [Csv::Parser (csv-parser)](https://github.com/ashaduri/csv-parser)
+***Compile-time and runtime CSV parser written in C++17***
 
-
-### [Blog](https://blog.shaduri.dev) - ***Alexander's Programming Tips***
-
+### [Blog](https://blog.shaduri.dev)
+***Alexander's Programming Tips***
 
 ## Contact
 
