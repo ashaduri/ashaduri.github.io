@@ -14,11 +14,11 @@ This is an incomplete list of currently active free software projects developed 
 
 # Links
 
+- ## [GitHub](https://github.com/ashaduri)
+
 - ## [Blog](https://blog.shaduri.dev)
   ***Alexander's Programming Tips***
 
-- ## [GitHub](https://github.com/ashaduri)
-
 # Contact
 
-- Email: [ashaduri@gmail.com](mailto:ashaduri@gmail.com)
+- Email: [alexander@shaduri.dev](mailto:alexander@shaduri.dev)
