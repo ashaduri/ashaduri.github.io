@@ -4,7 +4,7 @@ I'm a professional C++ software developer since 2002. While I strongly believe i
 
 # Free Software Projects
 
-This is an incomplete list of currently active free software projects developed by me.
+This is an incomplete list of currently active free software projects developed and maintained by me.
 
 - ## [GSmartControl](https://gsmartcontrol.shaduri.dev)
   ***Hard disk drive and SSD health inspection tool***
@@ -14,10 +14,16 @@ This is an incomplete list of currently active free software projects developed 
 
 # Links
 
-- ## [Blog](https://blog.shaduri.dev)
-  ***Alexander's Programming Tips***
+- ## [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="24" height="24"/> shaduri.dev](https://shaduri.dev)
 
-- ## [GitHub](https://github.com/ashaduri)
+- ## [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="24" height="24"/> github.com/ashaduri](https://github.com/ashaduri)
+
+- ## [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="24" height="24"/> linkedin.com/in/ashaduri](https://www.linkedin.com/in/ashaduri/)
+
+- ## [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" width="24" height="24"/> x.com/alex_shaduri](https://x.com/alex_shaduri)
+
+- ## [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/hashnode.svg" width="24" height="24"/> blog - Alexander's programming tips](https://blog.shaduri.dev)
+
 
 # Contact
 
