@@ -1,8 +1,11 @@
 
 Back to [Home](index.md)
 
+---
+
 # Portfolio - Old Projects
 
+---
 ## GREENNET
 
 [//]: # (Tbilisi, Georgia)
@@ -10,6 +13,7 @@ Back to [Home](index.md)
 
 _GREENNET ([greennet.ge](https://greennet.ge)) is a complex IT & telecom systems integrator operating in Central and Eastern Europe._
 
+---
 ### Green Billing System
 
 **Skills used:** PHP, MySQL/MariaDB, IBM Db2, Linux, SOAP web services, Cisco Administrative XML (AXL), 
@@ -34,6 +38,7 @@ in increased sales and customer satisfaction.
 - **Market Expansion:** By designing and implementing unique features, the application was able to meet specific business
 needs, attracting a broader customer base.
 
+---
 
 ### Green Operations
 
@@ -53,6 +58,8 @@ resulting in over 15 years of continuous operation without speed-related issues.
 - **Business Process Optimization:** Improved business process optimization and warehouse stock tracking for all adopting
 companies.
 
+---
+
 ### Other Projects
 
 During my time at GREENNET, I contributed to the development of various projects, including:
@@ -71,6 +78,8 @@ leading companies operating in Central and Eastern Europe.
 ---
 
 ## Freelance Work
+
+---
 
 ### EZ-FDTD _by EMS+_
 
@@ -115,6 +124,7 @@ I served as a **lead developer** of ZimInvoice.
 - **Unique Features:** Includes demurrage tracking and a smart, flexible charge system.
 - **Cost Savings:** After migrating to the application, Zim Georgia saved hundreds of thousands of US dollars within just a few years.
 
+---
 
 ### BioCalcon _by Advanced Bioresearch and Technology_
 

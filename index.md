@@ -32,6 +32,8 @@ You can reach me by email at [ashaduri@gmail.com](mailto:ashaduri@gmail.com).
 
 Below is a selection of free software projects that I have developed.
 
+---
+
 ## [GSmartControl](https://gsmartcontrol.shaduri.dev)
 
 [//]: # (2008 – Present)
@@ -144,6 +146,10 @@ projects while continuously learning and growing as a developer.
 
 # Commercial Projects
 
+Below is a partial list of the commercial projects I have worked on.
+
+---
+
 ## Clear Signal Solutions, Inc.
 
 [//]: # (Remote – Santa Clara, CA, USA)
@@ -152,6 +158,8 @@ projects while continuously learning and growing as a developer.
 _Clear Signal Solutions, Inc. ([clearsig.com](https://clearsig.com)), also known as CSS, is a
 California-based company providing measurement and
 characterization solutions for signal and power integrity applications._
+
+---
 
 ### AITT  - Advanced Interconnect Test Tool
 
@@ -191,6 +199,7 @@ designed and developed, has been instrumental in its adoption by industry giants
 partner hardware manufacturers to seamlessly integrate AITT into their products.
 This integration has **doubled sales** and strengthened our market position.
 
+---
 
 ### AITT-FLS - AITT Floating License Server
 [//]: # (Apr 2020 - Present)
@@ -217,6 +226,7 @@ and testing processes to maintain high standards of code quality and system stab
 and has now become a significant feature of AITT. This capability enables companies
 to purchase license seats, resulting in increased sales and enhanced customer satisfaction.
 
+---
 
 ### CSS License Manager
 
@@ -260,6 +270,8 @@ develop skilled personnel, and create innovative tools to tackle current and fut
 This comprehensive approach ensures that the lab remains at the forefront of solving electromagnetic
 compatibility issues that impact various sectors._
 
+---
+
 ### DCRET by Meta Platforms, Inc.
 
 [//]: # (Sep 2018 - Dec 2023)
@@ -301,6 +313,7 @@ to renew their contract with EMC Lab multiple times.
 [//]: # (coefficient is obtained for more accurate estimation of wave absorption and reflection of the building structure using&#41;)
 [//]: # (the ray-tracing method.)
 
+---
 
 ### FEMAS (Fast Electromagnetic Analysis Suite)
 
@@ -349,6 +362,7 @@ and Linux platforms and prepared for future technological advancements.
 [//]: # (De-Embedding;)
 [//]: # (Fixture Characterization;)
 
+---
 
 ### Femas-Framework
 
@@ -383,10 +397,13 @@ to be built modularly, **significantly reducing development time** for new proje
 allowed for the effortless creation of Linux versions of applications upon customer request,
 greatly **enhancing customer satisfaction**.
 
+---
+
 ## Other Projects
 
 Some of the older projects I worked on are listed on the [Old Projects](old_projects.md) page.
 
+---
 
 # Copyright
 © Alexander Shaduri
