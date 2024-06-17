@@ -6,11 +6,13 @@ dedicated to creating safe, reliable, and efficient software.
 Most of my software is cross-platform, although I primarily use Linux as my desktop and
 development platform.
 
+---
 
 # Contact
 
-- Email: [ashaduri@gmail.com](mailto:ashaduri@gmail.com)
+You can reach me by email at [ashaduri@gmail.com](mailto:ashaduri@gmail.com).
 
+---
 
 # Links
 
@@ -24,6 +26,7 @@ development platform.
 
 - ## [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="24" height="24"/> shaduri.dev](https://shaduri.dev)
 
+---
 
 # Free Software Projects
 
@@ -68,6 +71,7 @@ highlighting the project’s impact and relevance in the tech community.
 For a detailed look at the project's development, visit [GSmartControl Website](https://gsmartcontrol.shaduri.dev) and
 [GSmartControl on GitHub](https://github.com/ashaduri/gsmartcontrol).
 
+---
 
 ## [Csv::Parser](https://github.com/ashaduri/csv-parser)
 
@@ -91,6 +95,7 @@ making the library easier to use and understand.
 
 For a closer look at Csv::Parser, visit its GitHub repository: [github.com/ashaduri/csv-parser](https://github.com/ashaduri/csv-parser).
 
+---
 
 ## [Qt-ccTalk](https://github.com/ashaduri/qt-cctalk)
 
@@ -115,6 +120,7 @@ and operation of ccTalk devices, significantly improving device management and d
 
 For more information, visit the GitHub repository: [github.com/ashaduri/qt-cctalk](https://github.com/ashaduri/qt-cctalk).
 
+---
 
 ## Other Open-Source Work
 
@@ -134,6 +140,7 @@ these projects functional and useful for everyone.
 I love being part of the open-source community and appreciate how it allows me to contribute to meaningful 
 projects while continuously learning and growing as a developer.
 
+---
 
 # Commercial Projects
 
@@ -240,6 +247,7 @@ PHP and MySQL/MariaDB versions, ensuring consistent software quality.
 to incorporate licensing into their automated processes. **More than half of sales** stem from integrations.
 - **Significant Contribution:** The development of this product has significantly contributed to the company's success.
 
+---
 
 ## EMC Lab, Missouri University of Science and Technology
 
@@ -377,8 +385,8 @@ greatly **enhancing customer satisfaction**.
 
 ## Other Projects
 
-Some of the older projects I worked on are listed on the [old_projects.md](old_projects.md) page.
+Some of the older projects I worked on are listed on the [Old Projects](old_projects.md) page.
 
 
 # Copyright
-Alexander Shaduri
+© Alexander Shaduri

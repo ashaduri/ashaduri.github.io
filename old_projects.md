@@ -68,6 +68,7 @@ Ministry of Economic Development of Georgia, Axis development company, and other
 - **Company Growth:** These early projects significantly contributed to GREENNET's growth and its establishment as one of the
 leading companies operating in Central and Eastern Europe.
 
+---
 
 ## Freelance Work
 
@@ -94,6 +95,7 @@ user-friendly manner.
 - **Improved User Experience:** Replacing the earlier, user-unfriendly interface, the new Qt-based GUI became one of the main
 selling points of EZ-FDTD, significantly boosting its sales.
 
+---
 
 ### ZimInvoice _by Zim Integrated Shipping Services Georgia_
 [zim.com](https://zim.com)
@@ -128,6 +130,7 @@ my key responsibilities included:
 - Leading the development of BioCalcon, ensuring it met the high standards required for medical diagnostics.
 - Ensuring cross-platform compatibility for seamless operation on both Windows and Linux systems.
 
+---
 
 # Copyright
-Alexander Shaduri
+© Alexander Shaduri
