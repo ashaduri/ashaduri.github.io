@@ -34,9 +34,14 @@ Below is a selection of free software projects that I have developed.
 
 [//]: # (2008 – Present)
 
-***Hard disk drive and SSD health inspection tool***
+**Hard disk drive and SSD health inspection tool**
 
 <img alt="GSmartControl screenshot" src="screenshots/gsmartcontrol.png" class="screenshot"/>
+
+_GSmartControl is a graphical user interface for smartctl (from smartmontools package), which
+is a tool for querying and controlling SMART (Self-Monitoring, Analysis, and Reporting Technology) data
+on modern hard disk and solid-state drives. It allows you to inspect the drive's SMART data to determine
+its health, as well as run various tests on it._
 
 **Skills used:** C++98 - C++20, GTK+, Gtkmm, GUI development, cross-platform development, code modernization, systems programming, JSON, CMake,
 autotools, Catch2, GitHub CI, GitHub pages, Doxygen, open-source collaboration.
@@ -75,17 +80,17 @@ For a detailed look at the project's development, visit [GSmartControl Website](
 
 [//]: # (2021 – Present)
 
-***Compile-time and runtime CSV parser library in C++17***
+**Compile-time and runtime CSV parser library in C++17**
+
+_Csv::Parser is an RFC 4180-compliant CSV parser library written in C++17.
+It leverages modern C++ features to provide a simple, extendable API, supporting zero-runtime-overhead
+resource loading through compile-time parsing._
 
 **Skills used:** C++17, Test-Driven Development (TDD), Catch2 framework, Doxygen, GitHub CI, open-source development.
 
-Csv::Parser is an RFC 4180-compliant CSV parser library written in C++17.
-It leverages modern C++ features to provide a simple, extendable API, supporting zero-runtime-overhead
-resource loading through compile-time parsing.
+As the **primary developer** of Csv::Parser, my contributions include:
 
-As the lead developer of Csv::Parser, my contributions include:
-
-- **Modern C++ API Design:** Leveraged modern C++17 features like constexpr and string_view to enable efficient compile-time parsing.
+- **Modern C++ API Design:** Leveraged modern C++17 features like `constexpr` and `string_view` to enable efficient compile-time parsing.
 - **TDD:** Applied Test-Driven Development (TDD) techniques using the Catch2 framework for rigorous testing.
 - **Continuous Integration:** Set up GitHub CI pipelines for consistent testing and building across multiple platforms.
 - **Documentation:** Integrated Doxygen with GitHub to automate the generation and publishing of API documentation,
@@ -99,13 +104,13 @@ For a closer look at Csv::Parser, visit its GitHub repository: [github.com/ashad
 
 [//]: # (2015)
 
-***Cross-platform ccTalk protocol implementation in modern C++ / Qt***
+**Cross-platform ccTalk protocol implementation in modern C++ / Qt**
+
+_The Qt-ccTalk Library is a cross-platform implementation of the ccTalk protocol, developed using modern C++ and Qt.
+The ccTalk protocol facilitates binary serial communication with bill validators and coin acceptors,
+playing a crucial role in the money transaction and point-of-sale industries._
 
 **Skills used:** C++14, Qt Framework, systems programming, thread-safe programming, specification implementation.
-
-The Qt-ccTalk Library is a cross-platform implementation of the ccTalk protocol, developed using modern C++ and Qt.
-The ccTalk protocol facilitates binary serial communication with bill validators and coin acceptors,
-playing a crucial role in the money transaction and point-of-sale industries.
 
 I developed Qt-ccTalk for use in a standalone self-service payment station software. My contributions include:
 
@@ -159,12 +164,14 @@ characterization solutions for signal and power integrity applications._
 
 ### AITT  - Advanced Interconnect Test Tool
 
+**A Versatile Tool for Interconnect Analysis and PCB Characterization**
+
 [//]: # (Jan 2020 - Present)
 
-_AITT is a flagship product of CSS used for signal integrity analysis and PCB characterization.
-It is used by many Fortune 100 companies including Intel, Amazon, Meta, Microsoft, and Cisco._
-
 <img alt="AITT screenshot" src="screenshots/aitt.png" class="screenshot"/>
+
+_AITT is a flagship product of CSS used for signal integrity analysis and PCB characterization.
+It is used by many Fortune 100 companies including **Intel, Amazon, Meta, Microsoft, and Cisco**._
 
 **Skills used:** C++17, Qt, Qwt, CMake, Catch2, ECMAScript, public API design, software integration,
 GitHub CI, technical documentation development, Doxygen, jsdoc.
@@ -190,7 +197,7 @@ Specification_.
 
 **Key Achievements:**
 - **Industry Adoption:** The user-friendly interface of AITT, which I largely
-designed and developed, has been instrumental in its adoption by industry giants.
+designed and developed, has been **instrumental in its adoption by industry giants**.
 - **Integration Success:** My strategic approach to software design has enabled
 partner hardware manufacturers to seamlessly integrate AITT into their products.
 This integration has **doubled sales** and strengthened our market position.
@@ -199,9 +206,10 @@ This integration has **doubled sales** and strengthened our market position.
 
 ### AITT-FLS - AITT Floating License Server
 [//]: # (Apr 2020 - Present)
-AITT-FLS is a cross-platform (Windows, Linux) server software for providing floating licenses to AITT.
 
 <img alt="AITT-FLS screenshot" src="screenshots/aitt-fls.png" class="screenshot"/>
+
+_AITT-FLS is a cross-platform (Windows, Linux) server software for providing floating licenses to AITT._
 
 **Skills used:** Rust programming language, REST API design, JSON, JSend, C++, Qt,
 SQLite, GitHub and GitLab CI, cross-platform development, webservice development.
@@ -222,13 +230,15 @@ and testing processes to maintain high standards of code quality and system stab
 **Achievements**:
 - **Boosting Product Sales:** AITT-FLS was developed in response to customer needs,
 and has now become a significant feature of AITT. This capability enables companies
-to purchase license seats, resulting in increased sales and enhanced customer satisfaction.
+to purchase license seats, resulting in **increased sales and enhanced customer satisfaction**.
 
 ---
 
 ### CSS License Manager
 
 [//]: # (Oct 2017 - Present)
+
+**Web-based application for managing licenses.**
 
 **Skills used:** PHP, Yii framework, MySQL, public REST API design, web application development,
 responsive application design, Bootstrap, JQuery, HTML5, RBAC, Linux.
@@ -253,7 +263,7 @@ PHP and MySQL/MariaDB versions, ensuring consistent software quality.
 **Impact of CSS License Manager:**
 - **Vital Role in Operations:** CSS License Manager is crucial in operations, particularly for enabling integrators
 to incorporate licensing into their automated processes. **More than half of sales** stem from integrations.
-- **Significant Contribution:** The development of this product has significantly contributed to the company's success.
+- **Significant Contribution:** The development of this product has significantly **contributed to the company's success**.
 
 ---
 
@@ -262,22 +272,25 @@ to incorporate licensing into their automated processes. **More than half of sal
 [//]: # (Remote – Rolla, Missouri, USA)
 [//]: # (Aug 2010 – Present)
 
-_The researchers at the S&T EMC Lab ([emclab.mst.edu](https://emclab.mst.edu)) focus on electromagnetic compatibility, power integrity,
-and signal integrity, addressing the needs of the industry. Their work aims to expand the knowledge base,
-develop skilled personnel, and create innovative tools to tackle current and future EMC challenges.
-This comprehensive approach ensures that the lab remains at the forefront of solving electromagnetic
-compatibility issues that impact various sectors._
+_Researchers at the **S&T EMC Lab** ([emclab.mst.edu](https://emclab.mst.edu)) focus on electromagnetic compatibility, 
+power integrity, and signal integrity for industry needs. They aim to expand knowledge, train skilled personnel,
+and create innovative tools to
+address current and future EMC challenges, ensuring the lab leads in solving electromagnetic compatibility issues across
+various sectors._
 
 ---
 
 ### DCRET by Meta Platforms, Inc.
 
 [//]: # (Sep 2018 - Dec 2023)
-_The Data Center Radiation Estimation Tool (DCRET) is an innovative application developed in collaboration with Meta
-Platforms, Inc., formerly known as Facebook. DCRET predicts electromagnetic emissions from entire buildings based on
-measurements from a single rack, aiding engineers in designing more efficient data center buildings and layouts._
+
+**Data Center Radiation Estimation Tool**
 
 <img alt="DCRET screenshot" src="screenshots/dcret.png" class="screenshot"/>
+
+_The Data Center Radiation Estimation Tool (DCRET) is an innovative application developed in collaboration with **Meta
+Platforms, Inc.**, formerly known as **Facebook**. DCRET predicts electromagnetic emissions from entire buildings based on
+measurements from a single rack, aiding engineers in designing more efficient data center buildings and layouts._
 
 **Skills used:** C++17, Qt, OpenGL, GUI programming, OpenMP, Intel DPC++, Intel VTune, software optimization, CMake.
 
@@ -298,8 +311,8 @@ Profiler, resulting in a 2.4x average speed increase in the engine.
 
 **Achievements and Impact:**
 - **Significant Role in Contract Renewal:** My contributions to DCRET were pivotal in Meta Platforms' decision
-to renew their contract with EMC Lab multiple times.
-- **Optimization Success:** Engine optimizations drastically reduced the simulation completion time from days to mere hours.
+to **renew their contract** with EMC Lab multiple times.
+- **Optimization Success:** Engine optimizations drastically **reduced the simulation completion time** from days to mere hours.
 
 [//]: # (Program description:)
 [//]: # (Server systems are often tested in a chamber or Open Area Testing Site &#40;OTAS&#41; for EMI compliance with a typical)
@@ -317,14 +330,17 @@ to renew their contract with EMC Lab multiple times.
 
 ### FEMAS (Fast Electromagnetic Analysis Suite)
 
+**Tools for engineers to assist in PCB and system design**
+
 [//]: # (Sep 2018 - Dec 2023)
 [//]: # (http://www.ems-plus.com/FEMAS_main.html)
 
+<img alt="FEMAS screenshot" src="screenshots/femas.png" class="screenshot"/>
+
 _FEMAS solves different types of signal and power integrity problems in electrical engineering.
 FEMAS contains many tools, including 2D Cross-Sectional Analysis, Multi-layer Via Transition,
-Link Path Analysis, etc. The software is available for Windows and Linux._
-
-<img alt="FEMAS screenshot" src="screenshots/femas.png" class="screenshot"/>
+Link Path Analysis, etc. The software is available for Windows and Linux and is used by
+many industry giants including **IBM, Dell, Cisco**, and others._
 
 **Skills used:** C++, Qt, Qwt, GUI programming, ECMAScript API design, C API design,
 application scripting, OpenMP, CMake, cross-platform development.
@@ -368,11 +384,11 @@ and Linux platforms and prepared for future technological advancements.
 
 [//]: # (Aug 2010 - Present)
 
+_The Femas-Framework is a versatile cross-platform C++ application framework designed for developing
+applications related to signal integrity, power integrity, and electromagnetic simulations._
+
 **Skills used:** C++, Qt, Qwt, GUI programming, Catch2, systems programming,
 cross-platform development, software architecture design, Doxygen, jsdoc.
-
-The Femas-Framework is a versatile cross-platform C++ application framework designed for developing
-applications related to signal integrity, power integrity, and electromagnetic simulations.
 
 As the **lead designer** of framework, my contributions include:
 - **Core Development:** Utilized C++ and Qt to establish the core foundation of the framework, ensuring robust

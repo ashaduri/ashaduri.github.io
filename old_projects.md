@@ -12,11 +12,11 @@ _GREENNET ([greennet.ge](https://greennet.ge)) is a complex IT & telecom systems
 ---
 ### Green Billing System
 
+_Green Billing System is a unique billing solution for Cisco Unified Communications Manager , deployed in numerous large
+businesses around Georgia, including **banks, hotels, and telecom operators**._
+
 **Skills used:** PHP, MySQL/MariaDB, IBM Db2, Linux, SOAP web services, Cisco Administrative XML (AXL), 
 Apache, web application development, HTML, CSS, JQuery, Bash (shell scripting).
-
-_Green Billing System is a unique billing solution for Cisco Unified Communications Manager, deployed in numerous large
-businesses around Georgia, including banks, hotels, and telecom operators._
 
 As the **lead developer** on the project, my key contributions included:
 
@@ -26,22 +26,22 @@ billing system to handle thousands of calls per day.
 across different Linux distributions.
 - **Unique Features Development:** Implemented unique features such as Forced Authorization Code-based caller identification,
 incoming call tariffication, and phone device UI services.
-**Deployment:** Successfully deployed the application on customers' Linux servers.
+- **Deployment:** Successfully deployed the application on customers' Linux servers.
 
 **Achievements and Impact:**
 - **Scalable Design Success:** The scalable design allowed the application to handle any load demanded by customers, resulting
-in increased sales and customer satisfaction.
+in **increased sales and customer satisfaction**.
 - **Market Expansion:** By designing and implementing unique features, the application was able to meet specific business
-needs, attracting a broader customer base.
+needs, **attracting a broader customer base**.
 
 ---
 
 ### Green Operations
 
-**Skills used:** PHP, MySQL/MariaDB, Linux, Apache, web application development, HTML, CSS, JQuery, Bash (shell scripting).
-
 _Green Operations is a CRM/PRM, inventory, and warehouse management system used by companies in various countries under
 the GREENNET brand._
+
+> **Skills used:** PHP, MySQL/MariaDB, Linux, Apache, web application development, HTML, CSS, JQuery, Bash (shell scripting).
 
 As the **lead developer** on the project, my key contributions included:
 
@@ -50,7 +50,7 @@ resulting in over 15 years of continuous operation without speed-related issues.
 
 **Achievements and Impact:**
 
-- **Wide Adoption:** The success of the application led to its adoption by other companies under the GREENNET brand.
+- **Wide Adoption:** The success of the application led to its **adoption by other companies** under the GREENNET brand.
 - **Business Process Optimization:** Improved business process optimization and warehouse stock tracking for all adopting
 companies.
 
@@ -68,7 +68,7 @@ Ministry of Economic Development of Georgia, Axis development company, and other
 (SELP).
 
 **Achievements and Impact:**
-- **Company Growth:** These early projects significantly contributed to GREENNET's growth and its establishment as one of the
+- **Company Growth:** These early projects significantly **contributed to GREENNET's growth** and its establishment as one of the
 leading companies operating in Central and Eastern Europe.
 
 ---
@@ -108,17 +108,17 @@ selling points of EZ-FDTD, significantly boosting its sales.
 [//]: # (Tbilisi, Georgia)
 [//]: # (2009 – 2010)
 
-_Zim Integrated Shipping Services Georgia is a subsidiary of ZIM, one of the 10 largest shipping companies worldwide._
+_Zim Integrated Shipping Services Georgia is a subsidiary of ZIM, one of the **10 largest shipping companies worldwide**._
+
+_**ZimInvoice** is a smart invoicing application used for tracking invoices, payments, shipments, and containers arriving at naval ports._
 
 **Skills used:** PHP, MySQL, Apache, DAT Manifest Format. 
-
-_ZimInvoice is a smart invoicing application used for tracking invoices, payments, shipments, and containers arriving at naval ports._
 
 I served as a **lead developer** of ZimInvoice.
 
 **Key Features and Impact:**
 - **Unique Features:** Includes demurrage tracking and a smart, flexible charge system.
-- **Cost Savings:** After migrating to the application, Zim Georgia saved hundreds of thousands of US dollars within just a few years.
+- **Cost Savings:** After migrating to the application, Zim Georgia **saved hundreds of thousands of US dollars** within just a few years.
 
 ---
 
@@ -127,9 +127,9 @@ I served as a **lead developer** of ZimInvoice.
 [//]: # (Tbilisi, Georgia; Nice, France; Luxembourg)
 [//]: # (Aug 2002 – Jun 2006)
 
-**Skills used:** C++, GTK+, SDL, Video4Linux (V4L), cross-platform desktop application development, GUI programming, systems programming.
+_Advanced Bioresearch and Technology was a company specializing in medical diagnostic software and hardware._
 
-Advanced Bioresearch and Technology was a company specializing in medical diagnostic software and hardware.
+**Skills used:** C++, GTK+, SDL, Video4Linux (V4L), cross-platform desktop application development, GUI programming, systems programming.
 
 As the **lead developer** for BioCalcon, a cross-platform medical diagnostic software suite for Windows and Linux,
 my key responsibilities included:
