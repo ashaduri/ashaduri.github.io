@@ -16,15 +16,11 @@ You can reach me by email at [ashaduri@gmail.com](mailto:ashaduri@gmail.com).
 
 # Links
 
-- ## [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="24" height="24"/> github.com/ashaduri](https://github.com/ashaduri)
-
-- ## [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="24" height="24"/> linkedin.com/in/ashaduri](https://www.linkedin.com/in/ashaduri/)
-
-- ## [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" width="24" height="24"/> x.com/alex_shaduri](https://x.com/alex_shaduri)
-
-- ## [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/hashnode.svg" width="24" height="24"/> Alexander's programming tips](https://blog.shaduri.dev)
-
-- ## [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="24" height="24"/> shaduri.dev](https://shaduri.dev)
+## [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="24" height="24" class="inline-image"/> github.com/ashaduri](https://github.com/ashaduri)
+## [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="24" height="24" class="inline-image"/> linkedin.com/in/ashaduri](https://www.linkedin.com/in/ashaduri/)
+## [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" width="24" height="24" class="inline-image"/> x.com/alex_shaduri](https://x.com/alex_shaduri)
+## [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/hashnode.svg" width="24" height="24" class="inline-image"/> Alexander's programming tips](https://blog.shaduri.dev)
+## [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="24" height="24" class="inline-image"/> shaduri.dev](https://shaduri.dev)
 
 ---
 
@@ -40,7 +36,7 @@ Below is a selection of free software projects that I have developed.
 
 ***Hard disk drive and SSD health inspection tool***
 
-![GSmartControl screenshot](screenshots/gsmartcontrol.png)
+<img alt="GSmartControl screenshot" src="screenshots/gsmartcontrol.png" class="screenshot"/>
 
 **Skills used:** C++98 - C++20, GTK+, Gtkmm, GUI development, cross-platform development, code modernization, systems programming, JSON, CMake,
 autotools, Catch2, GitHub CI, GitHub pages, Doxygen, open-source collaboration.
@@ -168,7 +164,7 @@ characterization solutions for signal and power integrity applications._
 _AITT is a flagship product of CSS used for signal integrity analysis and PCB characterization.
 It is used by many Fortune 100 companies including Intel, Amazon, Meta, Microsoft, and Cisco._
 
-![AITT screenshot](screenshots/aitt.png)
+<img alt="AITT screenshot" src="screenshots/aitt.png" class="screenshot"/>
 
 **Skills used:** C++17, Qt, Qwt, CMake, Catch2, ECMAScript, public API design, software integration,
 GitHub CI, technical documentation development, Doxygen, jsdoc.
@@ -204,7 +200,9 @@ This integration has **doubled sales** and strengthened our market position.
 ### AITT-FLS - AITT Floating License Server
 [//]: # (Apr 2020 - Present)
 AITT-FLS is a cross-platform (Windows, Linux) server software for providing floating licenses to AITT.
-![AITT-FLS screenshot](screenshots/aitt-fls.png)
+
+<img alt="AITT-FLS screenshot" src="screenshots/aitt-fls.png" class="screenshot"/>
+
 **Skills used:** Rust programming language, REST API design, JSON, JSend, C++, Qt,
 SQLite, GitHub and GitLab CI, cross-platform development, webservice development.
 
@@ -278,7 +276,9 @@ compatibility issues that impact various sectors._
 _The Data Center Radiation Estimation Tool (DCRET) is an innovative application developed in collaboration with Meta
 Platforms, Inc., formerly known as Facebook. DCRET predicts electromagnetic emissions from entire buildings based on
 measurements from a single rack, aiding engineers in designing more efficient data center buildings and layouts._
-![DCRET screenshot](screenshots/dcret.png)
+
+<img alt="DCRET screenshot" src="screenshots/dcret.png" class="screenshot"/>
+
 **Skills used:** C++17, Qt, OpenGL, GUI programming, OpenMP, Intel DPC++, Intel VTune, software optimization, CMake.
 
 **My key contributions to DCRET include:**
@@ -324,7 +324,7 @@ _FEMAS solves different types of signal and power integrity problems in electric
 FEMAS contains many tools, including 2D Cross-Sectional Analysis, Multi-layer Via Transition,
 Link Path Analysis, etc. The software is available for Windows and Linux._
 
-![FEMAS screenshot](screenshots/femas.png)
+<img alt="FEMAS screenshot" src="screenshots/femas.png" class="screenshot"/>
 
 **Skills used:** C++, Qt, Qwt, GUI programming, ECMAScript API design, C API design,
 application scripting, OpenMP, CMake, cross-platform development.
@@ -403,7 +403,3 @@ greatly **enhancing customer satisfaction**.
 
 Some of the older projects I worked on are listed on the [Old Projects](old_projects.md) page.
 
----
-
-# Copyright
-© Alexander Shaduri

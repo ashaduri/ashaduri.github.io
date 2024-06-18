@@ -139,8 +139,3 @@ my key responsibilities included:
 ---
 
 ### Back to [Home](index.md)
-
----
-
-## Copyright
-© Alexander Shaduri

@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Add your custom styles here */
+
+img.screenshot {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img.inline-image {
+	margin-left: 20px;
+	margin-right: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 0;
+	border: 0;
+}
+
+/* Content max width */
+.inner {
+	max-width: 900px;
+}
+
+h2 {
+	background: none;
+}
