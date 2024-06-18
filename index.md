@@ -38,10 +38,8 @@ Below is a selection of free software projects that I have developed.
 
 <img alt="GSmartControl screenshot" src="screenshots/gsmartcontrol.png" class="screenshot"/>
 
-_GSmartControl is a graphical user interface for smartctl (from smartmontools package), which
-is a tool for querying and controlling SMART (Self-Monitoring, Analysis, and Reporting Technology) data
-on modern hard disk and solid-state drives. It allows you to inspect the drive's SMART data to determine
-its health, as well as run various tests on it._
+_GSmartControl is a graphical interface for smartctl (from smartmontools), which queries and controls
+SMART data on modern hard drives and SSDs. It lets you inspect drive health and run various tests._
 
 **Skills used:** C++98 - C++20, GTK+, Gtkmm, GUI development, cross-platform development, code modernization, systems programming, JSON, CMake,
 autotools, Catch2, GitHub CI, GitHub pages, Doxygen, open-source collaboration.
