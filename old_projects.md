@@ -1,8 +1,4 @@
 
-Back to [Home](index.md)
-
----
-
 # Portfolio - Old Projects
 
 ---
@@ -142,5 +138,9 @@ my key responsibilities included:
 
 ---
 
-# Copyright
+### Back to [Home](index.md)
+
+---
+
+## Copyright
 © Alexander Shaduri
