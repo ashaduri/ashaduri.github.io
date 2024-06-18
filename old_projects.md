@@ -41,7 +41,7 @@ needs, **attracting a broader customer base**.
 _Green Operations is a CRM/PRM, inventory, and warehouse management system used by companies in various countries under
 the GREENNET brand._
 
-> **Skills used:** PHP, MySQL/MariaDB, Linux, Apache, web application development, HTML, CSS, JQuery, Bash (shell scripting).
+**Skills used:** PHP, MySQL/MariaDB, Linux, Apache, web application development, HTML, CSS, JQuery, Bash (shell scripting).
 
 As the **lead developer** on the project, my key contributions included:
 
@@ -103,12 +103,11 @@ selling points of EZ-FDTD, significantly boosting its sales.
 ---
 
 ### ZimInvoice _by Zim Integrated Shipping Services Georgia_
-[zim.com](https://zim.com)
 
 [//]: # (Tbilisi, Georgia)
 [//]: # (2009 – 2010)
 
-_Zim Integrated Shipping Services Georgia is a subsidiary of ZIM, one of the **10 largest shipping companies worldwide**._
+_Zim Integrated Shipping Services Georgia is a subsidiary of ZIM ([zim.com](https://zim.com)), one of the **10 largest shipping companies worldwide**._
 
 _**ZimInvoice** is a smart invoicing application used for tracking invoices, payments, shipments, and containers arriving at naval ports._
 
