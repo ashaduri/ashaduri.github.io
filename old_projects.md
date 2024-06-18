@@ -1,5 +1,5 @@
 
-# Portfolio - Old Projects
+# Old Projects
 
 ---
 ## GREENNET
