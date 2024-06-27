@@ -12,7 +12,7 @@ _GREENNET ([greennet.ge](https://greennet.ge)) is a complex IT & telecom systems
 ---
 ### Green Billing System
 
-_Green Billing System is a unique billing solution for Cisco Unified Communications Manager , deployed in numerous large
+_Green Billing System is a unique billing solution for Cisco Unified Communications Manager, deployed in numerous large
 businesses around Georgia, including **banks, hotels, and telecom operators**._
 
 **Skills used:** PHP, MySQL/MariaDB, IBM Db2, Linux, SOAP web services, Cisco Administrative XML (AXL), 
@@ -134,6 +134,22 @@ As the **lead developer** for BioCalcon, a cross-platform medical diagnostic sof
 my key responsibilities included:
 - Leading the development of BioCalcon, ensuring it met the high standards required for medical diagnostics.
 - Ensuring cross-platform compatibility for seamless operation on both Windows and Linux systems.
+
+
+---
+
+### GTK+2 for Windows Runtime Environment installer (Open Source)
+
+[//]: # (Jan 2008 – Jun 2014)
+[//]: # (https://sourceforge.net/projects/gtk-win/)
+
+GTK+2 Runtime Environment Installer for Windows includes all the files required to
+run GTK+2 applications on Windows. It also includes various support tools like a theme selector.
+
+**Skills used:** NSIS language, C++.
+
+I was the maintainer of GTK+2 for Windows Runtime Environment installer and several related tools.
+
 
 ---
 
