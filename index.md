@@ -62,7 +62,7 @@ up-to-date information and resources.
 
 **Key Achievements:**
 
-- **User Adoption:** The latest Windows version of GSmartControl has been **downloaded over 425,000 times**, demonstrating its
+- **User Adoption:** The latest Windows version of GSmartControl has been **downloaded over 500,000 times**, demonstrating its
 value and reliability to users.
 - **Broad Integration:** GSmartControl is **included in major Linux distributions** such as Fedora, openSUSE,
 Ubuntu, Mint, Debian, as well as FreeBSD and numerous rescue images, which significantly expands its user base.
