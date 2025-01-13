@@ -1,12 +1,5 @@
 
-# Résumé
-
----
-
-## Alexander Shaduri
-***Senior Software Engineer***
-
-**[Download Résumé PDF](alexander-shaduri-resume.pdf)**
+## **[Download Résumé PDF](alexander-shaduri-resume.pdf)**
 
 ---
 
