@@ -19,6 +19,7 @@ You can reach me by email at [ashaduri@gmail.com](mailto:ashaduri@gmail.com).
 ### [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file.svg" width="18" height="18" class="inline-image"/> Résumé (PDF)](alexander-shaduri-resume.pdf)
 ### [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="18" height="18" class="inline-image"/> github.com/ashaduri](https://github.com/ashaduri)
 ### [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="18" height="18" class="inline-image"/> linkedin.com/in/ashaduri](https://www.linkedin.com/in/ashaduri/)
+### [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/xing.svg" width="18" height="18" class="inline-image"/> xing.com/profile/Alexander_Shaduri](https://www.xing.com/profile/Alexander_Shaduri)
 [//]: # (### [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" width="18" height="18" class="inline-image"/> x.com/alex_shaduri]&#40;https://x.com/alex_shaduri&#41;)
 ### [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/hashnode.svg" width="18" height="18" class="inline-image"/> Alexander's programming tips](https://blog.shaduri.dev)
 ### [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="18" height="18" class="inline-image"/> shaduri.dev](https://shaduri.dev)
